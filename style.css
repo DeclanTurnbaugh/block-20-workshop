@@ -1,0 +1,26 @@
+* {
+  font-family: Inter,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+  font-size: 100%;
+  line-height: 1.75;
+  text-rendering: optimizeSpeed;
+}
+
+*, body {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: whitesmoke;
+  padding: 5px;
+}
+
+h1{
+  margin-left: 5%;
+  margin-top: 20px;
+  font-size: 48px;
+}
+
+li{
+  margin-left: 10%;
+}
